@@ -1,0 +1,1 @@
+SETUP.md with clear, step-by-step installation instructions
